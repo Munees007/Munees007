@@ -112,7 +112,6 @@ I built it independently for a real client: gathered the business requirements, 
 <div align="center">
 
 <img height="180" alt="GitHub Stats" src="./assets/cards/stats.svg" />
-<img height="180" alt="Top Languages" src="./assets/cards/langs.svg" />
 
 <br />
 

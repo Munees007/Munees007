@@ -191,7 +191,7 @@ def main():
             sys.exit("GH_TOKEN is not set")
         data = fetch(token)
     os.makedirs(OUT, exist_ok=True)
-    for name, fn in (("stats", stats_card), ("langs", langs_card), ("activity", activity_card)):
+    for name, fn in (("stats", stats_card), ("activity", activity_card)):
         with open(os.path.join(OUT, f"{name}.svg"), "w", encoding="utf-8") as f:
             f.write(fn(data))
         print("wrote", name)
