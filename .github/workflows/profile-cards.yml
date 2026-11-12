@@ -1,0 +1,46 @@
+name: Generate Profile Cards
+
+on:
+  schedule:
+    - cron: "30 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/gen_cards.py"
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build stats, languages and activity cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate SVG cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Munees007
+        run: python3 .github/scripts/gen_cards.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/cards
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: update profile cards"
+            git push
+          fi

@@ -75,7 +75,7 @@ I enjoy turning ideas into working software, understanding the concepts undernea
 
 > A production system built for an automotive tyre business. It has been in daily use by the client for **over a year**.
 
-I built it independently for a real client: gathered the business requirements, designed the workflows, and delivered and deployed a working system as a ₹30,000 freelance project.
+I built it independently for a real client: gathered the business requirements, designed the workflows, and delivered and deployed a working system as a freelance project.
 
 - Inventory and stock management
 - GST billing and accounting
@@ -111,8 +111,8 @@ I built it independently for a real client: gathered the business requirements, 
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Munees007&show_icons=true&hide_border=true&bg_color=111114&title_color=EF4444&icon_color=DC2626&text_color=F4F4F5&text_bold=false" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munees007&layout=compact&hide_border=true&bg_color=111114&title_color=EF4444&text_color=F4F4F5" />
+<img height="180" alt="GitHub Stats" src="./assets/cards/stats.svg" />
+<img height="180" alt="Top Languages" src="./assets/cards/langs.svg" />
 
 <br />
 
@@ -120,7 +120,7 @@ I built it independently for a real client: gathered the business requirements, 
 
 <br />
 
-<img width="100%" alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Munees007&bg_color=09090B&color=A1A1AA&line=DC2626&point=F4F4F5&area=true&area_color=DC2626&title_color=EF4444&hide_border=true&radius=8" />
+<img width="100%" alt="Contribution Activity Graph" src="./assets/cards/activity.svg" />
 
 </div>
 
