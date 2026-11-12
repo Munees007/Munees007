@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Top Languages">
+  <rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="#111114" stroke="#27272A"/>
+  <text x="25" y="35" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#EF4444">Top Languages</text>
+  <clipPath id="bar"><rect x="25" y="55" width="445.0" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#bar)">
+  <rect x="25.00" y="55" width="384.17" height="10" fill="#DC2626"/>
+  <rect x="409.17" y="55" width="25.44" height="10" fill="#EF4444"/>
+  <rect x="434.61" y="55" width="19.29" height="10" fill="#F87171"/>
+  <rect x="453.90" y="55" width="8.78" height="10" fill="#FCA5A5"/>
+  <rect x="462.68" y="55" width="3.88" height="10" fill="#A1A1AA"/>
+  <rect x="466.55" y="55" width="3.45" height="10" fill="#52525B"/>
+  </g>
+  <circle cx="30" cy="88" r="5" fill="#DC2626"/>
+  <text x="41" y="92" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#F4F4F5">Python<tspan dx="8" fill="#A1A1AA">86.3%</tspan></text>
+  <circle cx="255" cy="88" r="5" fill="#EF4444"/>
+  <text x="266" y="92" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#F4F4F5">JavaScript<tspan dx="8" fill="#A1A1AA">5.7%</tspan></text>
+  <circle cx="30" cy="114" r="5" fill="#F87171"/>
+  <text x="41" y="118" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#F4F4F5">TypeScript<tspan dx="8" fill="#A1A1AA">4.3%</tspan></text>
+  <circle cx="255" cy="114" r="5" fill="#FCA5A5"/>
+  <text x="266" y="118" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#F4F4F5">HTML<tspan dx="8" fill="#A1A1AA">2.0%</tspan></text>
+  <circle cx="30" cy="140" r="5" fill="#A1A1AA"/>
+  <text x="41" y="144" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#F4F4F5">CSS<tspan dx="8" fill="#A1A1AA">0.9%</tspan></text>
+  <circle cx="255" cy="140" r="5" fill="#52525B"/>
+  <text x="266" y="144" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#F4F4F5">C#<tspan dx="8" fill="#A1A1AA">0.8%</tspan></text>
+
+</svg>
