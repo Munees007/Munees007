@@ -35,6 +35,8 @@ query($login: String!) {
                  orderBy: {field: PUSHED_AT, direction: DESC}) {
       totalCount
       nodes {
+        nameWithOwner
+        isArchived
         stargazerCount
         languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
           edges { size node { name } }
@@ -71,7 +73,7 @@ def mock():
         "repositories": {
             "totalCount": 2,
             "nodes": [
-                {"stargazerCount": 0, "languages": {"edges": [
+                {"nameWithOwner": "Munees007/demo", "isArchived": False, "stargazerCount": 0, "languages": {"edges": [
                     {"size": 5000, "node": {"name": "TypeScript"}},
                     {"size": 3000, "node": {"name": "C#"}},
                     {"size": 1500, "node": {"name": "CSS"}}]}}
@@ -112,10 +114,20 @@ def stats_card(u):
 
 
 def langs_card(u):
+    # Optional: skip repos, e.g. EXCLUDE_REPOS="Munees007/old-repo,Munees007/other"
+    excluded = {r.strip().lower() for r in os.environ.get("EXCLUDE_REPOS", "").split(",") if r.strip()}
     totals = {}
+    print("--- language bytes per repo (shows where each language comes from) ---")
     for repo in u["repositories"]["nodes"]:
-        for e in repo["languages"]["edges"]:
-            totals[e["node"]["name"]] = totals.get(e["node"]["name"], 0) + e["size"]
+        name = repo.get("nameWithOwner", "?")
+        langs = {e["node"]["name"]: e["size"] for e in repo["languages"]["edges"]}
+        if langs:
+            top = ", ".join(f"{k}={v:,}" for k, v in sorted(langs.items(), key=lambda kv: -kv[1])[:4])
+            print(f"{name}{' [archived]' if repo.get('isArchived') else ''}{' [EXCLUDED]' if name.lower() in excluded else ''}: {top}")
+        if name.lower() in excluded:
+            continue
+        for k, v in langs.items():
+            totals[k] = totals.get(k, 0) + v
     ranked = sorted(totals.items(), key=lambda kv: kv[1], reverse=True)[:6]
     total = sum(s for _, s in ranked) or 1
     body = ""

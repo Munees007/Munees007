@@ -31,6 +31,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Munees007
+          # Comma-separated repos to leave out of the language card, e.g. "Munees007/old-repo"
+          EXCLUDE_REPOS: ""
         run: python3 .github/scripts/gen_cards.py
 
       - name: Commit changes
