@@ -83,7 +83,7 @@ I enjoy turning ideas into working software, understanding the concepts undernea
 
 > A production system built for an automotive tyre business. It has been in daily use by the client for **over a year**.
 
-I built it independently for a real client: gathered the business requirements, designed the workflows, and delivered and deployed a working system as a ₹30,000 freelance project.
+I built it independently for a real client: gathered the business requirements, designed the workflows, and delivered and deployed a working system as a freelance project.
 
 - Inventory and stock management
 - GST billing and accounting
