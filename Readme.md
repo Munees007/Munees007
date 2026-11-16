@@ -3,7 +3,7 @@
 <img width="100%" alt="MUNEESWARAN — THINK. BUILD. SOLVE." src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,55:7F1D1D,100:DC2626&height=260&section=header&text=MUNEESWARAN&fontSize=68&fontColor=F4F4F5&fontAlignY=38&desc=THINK.%20BUILD.%20SOLVE.&descSize=22&descAlignY=60&animation=fadeIn" />
 
 <a href="https://github.com/Munees007">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=EF4444&center=true&vCenter=true&width=640&height=48&lines=Full+Stack+Developer;Building+Real-World+Applications;React+%7C+Next.js+%7C+TypeScript;C%23+%7C+.NET+%7C+Cloud+Technologies;Think.+Build.+Solve." />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1000&color=EF4444&center=true&vCenter=true&width=640&height=48&lines=Full+Stack+Developer+%7C+Unity+Game+Developer;Building+Real-World+Applications;React+%7C+Next.js+%7C+TypeScript;C%23+%7C+.NET+%7C+Unity+%7C+Cloud;2D+%7C+3D+%7C+AR+Games+and+Events;Think.+Build.+Solve." />
 </a>
 
 <br />
@@ -24,12 +24,13 @@
 
 ## `> about_me`
 
-I'm **P. Muneeswaran**, a Full Stack Developer and MCA student (2025–2027, after a BCA from 2022–2025) who learns by building.
+I'm **P. Muneeswaran**, a Full Stack Developer and **Unity Game Developer**, and an MCA student (2025–2027, after a BCA from 2022–2025) who learns by building.
 
-I enjoy turning ideas into working software, understanding the concepts underneath, and solving problems people actually have. That approach has taken me from college event platforms to a **production business system that a real client has been using for over a year**.
+I enjoy turning ideas into working software, understanding the concepts underneath, and solving problems people actually have. That approach has taken me from college event platforms to a **production business system that a real client has been using for over a year**, and from small 2D games to 3D and AR games that were used live at college events.
 
 - **2+ years** of React · **1+ year** of TypeScript
 - Frontend, backend, database integration and cloud deployment, end to end
+- **Unity game development since 2023**: 2D, 3D and AR, with games used at real events
 - Strongest in **React, Next.js, TypeScript, C# and .NET**
 
 <br />
@@ -55,6 +56,13 @@ I enjoy turning ideas into working software, understanding the concepts undernea
   <img alt="Syncfusion" src="https://img.shields.io/badge/Syncfusion-DC2626?style=flat-square&labelColor=111114" />
 </p>
 
+**Game development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" alt="Game development technologies" />
+  <img alt="Vuforia" src="https://img.shields.io/badge/Vuforia_AR-DC2626?style=flat-square&labelColor=111114" />
+</p>
+
 **Databases**
 
 <p>
@@ -75,7 +83,7 @@ I enjoy turning ideas into working software, understanding the concepts undernea
 
 > A production system built for an automotive tyre business. It has been in daily use by the client for **over a year**.
 
-I built it independently for a real client: gathered the business requirements, designed the workflows, and delivered and deployed a working system as a freelance project.
+I built it independently for a real client: gathered the business requirements, designed the workflows, and delivered and deployed a working system as a ₹30,000 freelance project.
 
 - Inventory and stock management
 - GST billing and accounting
@@ -103,6 +111,46 @@ I built it independently for a real client: gathered the business requirements, 
 <!--
   PLACEHOLDERS: add repository or live links here when you want them, for example
   by appending " · [Repo](https://github.com/Munees007/<repo-name>)" to a row's Stack cell.
+-->
+
+<br />
+
+## `> game_development`
+
+I build games in **Unity (C#)**. It started with a tutorial in 2023 and grew into 3D and AR games and full event platforms that participants played live at college events, with Firebase-backed scoring in the latest ones.
+
+### ▸ Virtual Realms — 3D adventure and runner for the Qmaze intercollegiate meet
+
+> Built twice for a live event. The first version was a third-person adventure; the second was redesigned after participants found it too hard.
+
+- **Adventure version (2024):** a world you have to cross by completing tasks: jumping across fixed water platforms out of a trap, rotating and placing statues to defeat a spider, and solving a 2D image puzzle of the Qmaze logo.
+- **Runner version (2025):** rebuilt as a Subway Surfers-style endless runner with a puzzle every 500 meters (Qmaze image puzzle, binary digit arrangement). Players are ranked by **time and score**, with all data stored in **Firebase**.
+
+`Unity` `C#` `Firebase` `3rd person` `Puzzle design`
+
+<br />
+
+### More games and interactive projects
+
+| Year | Project | What it is |
+| :-- | :-- | :-- |
+| 2025 | **Tech Titans** | 2D event game with connection-based scoring. |
+| 2025 | **UG Quiz event** | A full event in one Unity project: quiz mechanics, a binary bit calculation game, and a maze game where players collect letters to answer questions against a timer. Individual slots are managed from a single game scene. |
+| 2024 | **Qmaze Quiz round** | Arrange 8 images in order, with shuffle and custom scoring. |
+| 2024 | **AR Talent Showcase (Vuforia)** | Scan an animal to see its 3D model, play its animations and hear its sound, plus a solar system and an AR balloon-shooting game. **1st prize** at the college talent competition. |
+| 2024 | **Magic Learning (AR)** | AR learning concept for kindergarten students, with a printed booklet. Built for a competition. |
+| 2023 | **Endless Runner (3D)** | My first 3D game, inspired by Temple Run and built for PC. It taught me character movement and 3D environments. |
+| 2023 | **Fruit Ninja clone** | Faithful clone, used with a **Python virtual-mouse** demo that let students play with hand gestures in a school demonstration. |
+| 2023 | **Hill Climbing clone** | Built for the same virtual-mouse demo. Car physics is still rough, and I'd improve it given more time. |
+| 2023 | **World Runner** | Stand on a spinning globe and dodge spikes that rise from underneath. |
+| 2023 | **Space Shooter** | My first game built on my own, with three lives. |
+| 2023 | **Flappy Bird** | My very first game, built by following a tutorial. |
+
+<sub>I've also tried Unreal Engine and Godot. Unity is where I've shipped, so that's my focus.</sub>
+
+<!--
+  PLACEHOLDERS: add gameplay GIFs, itch.io or YouTube links per game when you have them, e.g.
+  by appending " · [Demo](https://...)" to a row.
 -->
 
 <br />
