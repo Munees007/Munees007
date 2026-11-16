@@ -8,7 +8,8 @@
 
 <br />
 
-<a href="https://munees.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-munees.vercel.app-DC2626?style=for-the-badge&labelColor=111114" /></a>
+<a href="https://munees.vercel.app"><img alt="Developer Portfolio" src="https://img.shields.io/badge/PORTFOLIO-DEVELOPER-DC2626?style=for-the-badge&labelColor=111114" /></a>
+<a href="https://munees.vercel.app/game-dev"><img alt="Game Dev Portfolio" src="https://img.shields.io/badge/PORTFOLIO-GAME_DEV-EF4444?style=for-the-badge&logo=unity&logoColor=white&labelColor=111114" /></a>
 <a href="https://github.com/Munees007"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-Munees007-F4F4F5?style=for-the-badge&logo=github&logoColor=F4F4F5&labelColor=111114" /></a>
 
 </div>
@@ -83,7 +84,7 @@ I enjoy turning ideas into working software, understanding the concepts undernea
 
 > A production system built for an automotive tyre business. It has been in daily use by the client for **over a year**.
 
-I built it independently for a real client: gathered the business requirements, designed the workflows, and delivered and deployed a working system as a freelance project.
+I built it independently for a real client: gathered the business requirements, designed the workflows, and delivered and deployed a working system as a ₹30,000 freelance project.
 
 - Inventory and stock management
 - GST billing and accounting
@@ -188,7 +189,8 @@ I build games in **Unity (C#)**. It started with a tutorial in 2023 and grew int
 ## `> connect`
 
 <p align="center">
-  <a href="https://munees.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-munees.vercel.app-DC2626?style=for-the-badge&labelColor=111114" /></a>
+  <a href="https://munees.vercel.app"><img alt="Developer Portfolio" src="https://img.shields.io/badge/Portfolio-Developer-DC2626?style=for-the-badge&labelColor=111114" /></a>
+  <a href="https://munees.vercel.app/game-dev"><img alt="Game Dev Portfolio" src="https://img.shields.io/badge/Portfolio-Game_Dev-EF4444?style=for-the-badge&logo=unity&logoColor=white&labelColor=111114" /></a>
   <a href="https://github.com/Munees007"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Munees007-F4F4F5?style=for-the-badge&logo=github&logoColor=F4F4F5&labelColor=111114" /></a>
 </p>
 
