@@ -12,45 +12,45 @@
   <text x="45" y="210.2" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="end">2</text>
   <line x1="55" y1="255.0" x2="870" y2="255.0" stroke="#27272A" stroke-dasharray="3 4"/>
   <text x="45" y="259.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="end">0</text>
-  <polygon points="55,255 55.0,255.0 82.2,255.0 109.3,255.0 136.5,255.0 163.7,133.1 190.8,230.6 218.0,255.0 245.2,255.0 272.3,255.0 299.5,255.0 326.7,255.0 353.8,230.6 381.0,230.6 408.2,255.0 435.3,255.0 462.5,255.0 489.7,255.0 516.8,255.0 544.0,230.6 571.2,255.0 598.3,60.0 625.5,255.0 652.7,230.6 679.8,255.0 707.0,133.1 734.2,255.0 761.3,255.0 788.5,255.0 815.7,255.0 842.8,255.0 870.0,255.0 870,255" fill="url(#g)"/>
-  <polyline points="55.0,255.0 82.2,255.0 109.3,255.0 136.5,255.0 163.7,133.1 190.8,230.6 218.0,255.0 245.2,255.0 272.3,255.0 299.5,255.0 326.7,255.0 353.8,230.6 381.0,230.6 408.2,255.0 435.3,255.0 462.5,255.0 489.7,255.0 516.8,255.0 544.0,230.6 571.2,255.0 598.3,60.0 625.5,255.0 652.7,230.6 679.8,255.0 707.0,133.1 734.2,255.0 761.3,255.0 788.5,255.0 815.7,255.0 842.8,255.0 870.0,255.0" fill="none" stroke="#DC2626" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="55,255 55.0,255.0 82.2,255.0 109.3,255.0 136.5,133.1 163.7,230.6 190.8,255.0 218.0,255.0 245.2,255.0 272.3,255.0 299.5,255.0 326.7,230.6 353.8,230.6 381.0,255.0 408.2,255.0 435.3,255.0 462.5,255.0 489.7,255.0 516.8,230.6 544.0,255.0 571.2,60.0 598.3,255.0 625.5,230.6 652.7,255.0 679.8,133.1 707.0,255.0 734.2,255.0 761.3,255.0 788.5,255.0 815.7,255.0 842.8,255.0 870.0,255.0 870,255" fill="url(#g)"/>
+  <polyline points="55.0,255.0 82.2,255.0 109.3,255.0 136.5,133.1 163.7,230.6 190.8,255.0 218.0,255.0 245.2,255.0 272.3,255.0 299.5,255.0 326.7,230.6 353.8,230.6 381.0,255.0 408.2,255.0 435.3,255.0 462.5,255.0 489.7,255.0 516.8,230.6 544.0,255.0 571.2,60.0 598.3,255.0 625.5,230.6 652.7,255.0 679.8,133.1 707.0,255.0 734.2,255.0 761.3,255.0 788.5,255.0 815.7,255.0 842.8,255.0 870.0,255.0" fill="none" stroke="#DC2626" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
   <circle cx="55.0" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="82.2" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="109.3" cy="255.0" r="2.5" fill="#F4F4F5"/>
-  <circle cx="136.5" cy="255.0" r="2.5" fill="#F4F4F5"/>
-  <circle cx="163.7" cy="133.1" r="2.5" fill="#F4F4F5"/>
-  <circle cx="190.8" cy="230.6" r="2.5" fill="#F4F4F5"/>
+  <circle cx="136.5" cy="133.1" r="2.5" fill="#F4F4F5"/>
+  <circle cx="163.7" cy="230.6" r="2.5" fill="#F4F4F5"/>
+  <circle cx="190.8" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="218.0" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="245.2" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="272.3" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="299.5" cy="255.0" r="2.5" fill="#F4F4F5"/>
-  <circle cx="326.7" cy="255.0" r="2.5" fill="#F4F4F5"/>
+  <circle cx="326.7" cy="230.6" r="2.5" fill="#F4F4F5"/>
   <circle cx="353.8" cy="230.6" r="2.5" fill="#F4F4F5"/>
-  <circle cx="381.0" cy="230.6" r="2.5" fill="#F4F4F5"/>
+  <circle cx="381.0" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="408.2" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="435.3" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="462.5" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="489.7" cy="255.0" r="2.5" fill="#F4F4F5"/>
-  <circle cx="516.8" cy="255.0" r="2.5" fill="#F4F4F5"/>
-  <circle cx="544.0" cy="230.6" r="2.5" fill="#F4F4F5"/>
-  <circle cx="571.2" cy="255.0" r="2.5" fill="#F4F4F5"/>
-  <circle cx="598.3" cy="60.0" r="2.5" fill="#F4F4F5"/>
-  <circle cx="625.5" cy="255.0" r="2.5" fill="#F4F4F5"/>
-  <circle cx="652.7" cy="230.6" r="2.5" fill="#F4F4F5"/>
-  <circle cx="679.8" cy="255.0" r="2.5" fill="#F4F4F5"/>
-  <circle cx="707.0" cy="133.1" r="2.5" fill="#F4F4F5"/>
+  <circle cx="516.8" cy="230.6" r="2.5" fill="#F4F4F5"/>
+  <circle cx="544.0" cy="255.0" r="2.5" fill="#F4F4F5"/>
+  <circle cx="571.2" cy="60.0" r="2.5" fill="#F4F4F5"/>
+  <circle cx="598.3" cy="255.0" r="2.5" fill="#F4F4F5"/>
+  <circle cx="625.5" cy="230.6" r="2.5" fill="#F4F4F5"/>
+  <circle cx="652.7" cy="255.0" r="2.5" fill="#F4F4F5"/>
+  <circle cx="679.8" cy="133.1" r="2.5" fill="#F4F4F5"/>
+  <circle cx="707.0" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="734.2" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="761.3" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="788.5" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="815.7" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="842.8" cy="255.0" r="2.5" fill="#F4F4F5"/>
   <circle cx="870.0" cy="255.0" r="2.5" fill="#F4F4F5"/>
-  <text x="55.0" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Oct 23</text>
-  <text x="190.8" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Oct 28</text>
-  <text x="326.7" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Nov 2</text>
-  <text x="462.5" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Nov 7</text>
-  <text x="598.3" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Nov 12</text>
-  <text x="734.2" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Nov 17</text>
-  <text x="870.0" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Nov 22</text>
+  <text x="55.0" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Oct 24</text>
+  <text x="190.8" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Oct 29</text>
+  <text x="326.7" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Nov 3</text>
+  <text x="462.5" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Nov 8</text>
+  <text x="598.3" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Nov 13</text>
+  <text x="734.2" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Nov 18</text>
+  <text x="870.0" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#A1A1AA" text-anchor="middle">Nov 23</text>
 
 </svg>
